@@ -8,6 +8,7 @@ web3.eth.subscribe
 
 The ``web3.eth.subscribe`` function lets you subscribe to specific events in the blockchain.
 
+.. note:: Subscriptions work only through websocket connections.
 
 
 subscribe
